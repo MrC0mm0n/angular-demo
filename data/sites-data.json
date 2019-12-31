@@ -1,0 +1,5 @@
+[
+  { "name" : "Site A", "uri" : "/site-a" },
+  { "name" : "Site B", "uri" : "/site-b" },
+  { "name" : "Site C", "uri" : "/site-c" }
+]
