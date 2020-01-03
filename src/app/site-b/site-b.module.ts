@@ -1,12 +1,12 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { TopNavComponent } from './top-nav/top-nav.component';
-import { SiteBRoutingModule } from './site-b-routing.module';
 
+import { SiteBRoutingModule } from './site-b-routing.module';
+import { SiteBComponent } from './site-b.component';
 
 
 @NgModule({
-  declarations: [TopNavComponent],
+  declarations: [SiteBComponent],
   imports: [
     CommonModule,
     SiteBRoutingModule
